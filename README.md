@@ -1,4 +1,4 @@
-# book_ocr
+# scribe_ocr
 
 Quick Flutter project to transcribe text in images
 
